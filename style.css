@@ -22,7 +22,7 @@ body {
 }
 
 .divider-1 {
-    height: 1px;
+    height: 1.2px;
     background: linear-gradient(270deg, #69B99D 0%, rgba(204, 244, 230, 0.34) 100%);
 }
 
