@@ -1,6 +1,6 @@
-#BeautySalon 
+<h1>BeautySalon </h1>
 
-##A beautiful responsive site using a bit of JavaScript.
+<p>A beautiful responsive site using a bit of JavaScript.</p>
 
 <img src="./assets/tela-grande.png">
 
