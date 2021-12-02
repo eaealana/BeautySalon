@@ -33,7 +33,7 @@ body {
 }
 
 .title {
-    font: 900 3rem 'Poppins', sans-serif;
+    font: 900 2rem 'Poppins', sans-serif;
     color: #0F241D;
 }
 
@@ -63,7 +63,7 @@ img {
 /*-----   HEADER   -----*/
 
 .container {
-    width: 90%;
+    width: 100%;
     margin: 0 1.5rem 0 1.5rem;
 }
 
@@ -89,7 +89,7 @@ img {
 }
 
 .logo {
-    font: 700 3rem 'Poppins';
+    font: 700 2rem 'Poppins';
     color: #0F241D;
 }
 
