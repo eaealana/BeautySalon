@@ -1,5 +1,8 @@
 <h1 align="center">Beauty Salon</h1>
 
+## :memo: Descrição
+Link: <a href="https://eaealana.github.io/BeautySalon/" target="_blank"> https://eaealana.github.io/BeautySalon/ </a>
+
 ## :books: Funcionalidades
 * Divulgar e atrair clientes para o salão
 
