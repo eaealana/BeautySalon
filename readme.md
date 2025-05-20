@@ -1,24 +1,46 @@
-<h1 align="center">Beauty Salon</h1>
+<h1 align="center">✨ Beauty Salon ✨</h1>
 
-## :memo: Descrição
-Link: <a href="https://eaealana.github.io/BeautySalon/" target="_blank"> https://eaealana.github.io/BeautySalon/ </a>
+<p>
+  Projeto responsivo desenvolvido nas trilhas da <strong>Rocketseat</strong>, com foco em layout moderno, navegação suave e boas práticas de HTML, CSS e JavaScript.
+</p>
 
-## :books: Funcionalidades
-* Divulgar e atrair clientes para o salão
+<br>
 
-## :wrench: Tecnologias utilizadas
-* HTML
-* CSS
-* JavaScript
+## 📍 Visite o projeto online  
+🔗 [Clique aqui para acessar o site](https://eaealana.github.io/BeautySalon/)
 
-## :rocket: Rodando o projeto
-Para rodar o repositório é necessário clonar o mesmo, dar o seguinte comando para iniciar o projeto:
-<a href="https://github.com/eaealana/BeautySalon.git">https://github.com/eaealana/BeautySalon.git</a>
+<br>
 
-## 💻 Projeto
-<img src="./assets/tela-grande.png">
-<img src="./assets/mobile.png">
+## 📝 Descrição  
+Este projeto foi criado com o objetivo de praticar a construção de interfaces web e simular um site institucional de salão de beleza. A ideia principal é atrair clientes e transmitir uma experiência visual encantadora, com foco em responsividade e design limpo.
 
-## :dart: Status do projeto
+<br>
 
-<img src="https://img.shields.io/badge/STATUS-CONCLU%C3%8DDO-brightgreen">
+## 🚀 Funcionalidades  
+- Página de apresentação do salão  
+- Seções com serviços oferecidos  
+- Layout responsivo para dispositivos móveis  
+- Botão de contato para agendamentos
+
+<br>
+
+## 🛠 Tecnologias utilizadas  
+- HTML5  
+- CSS3  
+- JavaScript
+
+<br>
+
+## 💡 Aprendizados  
+Esse projeto marcou meu início na jornada como desenvolvedora! Foi onde tudo começou — desde a estruturação básica de um site até o entendimento de responsividade, sem esquecer os primeiros passos com JavaScript para interações simples. Hoje olho com carinho e orgulho para essa fase 🌱✨
+
+<br>
+
+## 💻 Imagens do Projeto  
+<p>
+  <img src="./assets/tela-grande.png" width="80%"/>
+  <br><br>
+  <img src="./assets/mobile.png" width="40%"/>
+</p>
+
+<br>
