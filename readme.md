@@ -44,3 +44,5 @@ Esse projeto marcou meu início na jornada como desenvolvedora! Foi onde tudo co
 </p>
 
 <br>
+
+## by [Alana Ribeiro](https://www.instagram.com/alanaribeiroosz/) 🤎
